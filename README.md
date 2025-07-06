@@ -9,3 +9,8 @@ In various electronic circuits with privacy and security constraints, only a sin
 ## Paper link
 https://ieeexplore.ieee.org/document/11068941
 
+## Accuracy results
+Critical difference diagram comparing the accuracy of Mecha with existing representative feature-based TSC algorithms on 112 equal-length UCR datasets.
+![图片](https://github.com/user-attachments/assets/81e85551-3d66-4063-a025-5f030804e856)
+
+
